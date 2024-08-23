@@ -1,0 +1,37 @@
+/* start rules */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+ul{
+    list-style: none;
+}
+
+body{
+    background-color:#D6E6F2;
+    color:#F7FBFC ;
+}
+
+/* end rules */
+
+.bg-cust-blue{
+    background-color: #769FCD;
+}
+
+.cust-card{
+    background-color: #B9D7EA;
+    border-radius: 10px;
+}
+
+.cust-inner-card{
+    background-color: #769FCD;
+    border-radius: 10px;
+    width: 100%;
+}
